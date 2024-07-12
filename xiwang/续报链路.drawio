@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T08:59:33.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="p7E-MzKTofuwH0JYJcQY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T09:00:48.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="09VcFIUm1MCsHx7A_PAo" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9Fog6PMzjCSzRfVmr_Oy">
     <mxGraphModel dx="1385" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="_DpiRx70NHCl_bEKjOj2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_DpiRx70NHCl_bEKjOj2-1" target="_DpiRx70NHCl_bEKjOj2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-1" value="续报中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-1" value="续报中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="643" y="369" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_DpiRx70NHCl_bEKjOj2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_DpiRx70NHCl_bEKjOj2-3" target="_DpiRx70NHCl_bEKjOj2-1">
@@ -46,7 +46,7 @@
         <mxCell id="_DpiRx70NHCl_bEKjOj2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_DpiRx70NHCl_bEKjOj2-18" target="_DpiRx70NHCl_bEKjOj2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-18" value="选课单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-18" value="选课单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

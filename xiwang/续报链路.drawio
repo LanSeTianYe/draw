@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T09:10:41.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZxSbog02BadLokBf8j3N" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T09:10:58.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ceVX07zMqF0x_QrYcA0-" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9Fog6PMzjCSzRfVmr_Oy">
     <mxGraphModel dx="1385" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -61,16 +61,16 @@
         <mxCell id="_DpiRx70NHCl_bEKjOj2-18" value="选课单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="641" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-33" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;续报中心流量入口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-33" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;续报中心流量入口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="400" y="201" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-34" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户选课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-34" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户选课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="640" y="201" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-35" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-35" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="840" y="201" width="120" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="_DpiRx70NHCl_bEKjOj2-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;给课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_DpiRx70NHCl_bEKjOj2-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;给课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1040" y="202" width="120" height="19" as="geometry" />
         </mxCell>
       </root>

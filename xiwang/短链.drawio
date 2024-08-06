@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-06T07:26:31.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="DpR8uQFTRcdA7ZIgpsfb" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-06T07:32:21.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="RXigzcz7HkcBF3H15VY0" version="24.7.1" type="github">
   <diagram name="第 1 页" id="Ez9o0jnMFu-EMF3V-nLi">
     <mxGraphModel dx="1407" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="hj8aBXJMG3FdwWso9H0L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hj8aBXJMG3FdwWso9H0L-2" target="hj8aBXJMG3FdwWso9H0L-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hj8aBXJMG3FdwWso9H0L-2" value="md5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="hj8aBXJMG3FdwWso9H0L-2" value="md5（原始链接）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hj8aBXJMG3FdwWso9H0L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hj8aBXJMG3FdwWso9H0L-3" target="hj8aBXJMG3FdwWso9H0L-4">
@@ -31,8 +31,18 @@
         <mxCell id="hj8aBXJMG3FdwWso9H0L-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="680" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hj8aBXJMG3FdwWso9H0L-10" value="短链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="320" width="60" height="40" as="geometry" />
+        <mxCell id="hj8aBXJMG3FdwWso9H0L-13" value="短链" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hj8aBXJMG3FdwWso9H0L-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hj8aBXJMG3FdwWso9H0L-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="340" as="sourcePoint" />
+            <mxPoint x="880" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="340" />
+              <mxPoint x="810" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

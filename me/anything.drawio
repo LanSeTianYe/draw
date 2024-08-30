@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="dpTXY2fJAkPe_KdnsqiX">
-    <mxGraphModel dx="1231" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-6" value="154.221.30.106" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8utcnIzvaH1VI9BwOxpx-6" target="8utcnIzvaH1VI9BwOxpx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="480" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-9" value="localhost" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8utcnIzvaH1VI9BwOxpx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8utcnIzvaH1VI9BwOxpx-9" target="8utcnIzvaH1VI9BwOxpx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

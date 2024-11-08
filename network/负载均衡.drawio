@@ -23,13 +23,13 @@
           <mxGeometry x="440" y="210" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-7" value="链路层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="320" width="78" height="30" as="geometry" />
+          <mxGeometry x="465" y="342" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-9" value="IP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="320" width="78" height="30" as="geometry" />
+          <mxGeometry x="359" y="342" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-11" value="TCP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="78" height="30" as="geometry" />
+          <mxGeometry x="260" y="342" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

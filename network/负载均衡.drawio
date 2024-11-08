@@ -28,16 +28,16 @@
         <mxCell id="t_H4ScusPziJ7b-3OtiA-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;应用层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-7" value="链路层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-7" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="370" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-9" value="IP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-9" value="TCP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="370" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-11" value="TCP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-11" value="IP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="370" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-14" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-14" value="链路层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-29" value="七层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="t_H4ScusPziJ7b-3OtiA-31" value="三层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-32" value="二层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-32" value="七层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="400" width="80" height="30" as="geometry" />
         </mxCell>
       </root>

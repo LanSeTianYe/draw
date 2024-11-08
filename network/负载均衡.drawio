@@ -52,7 +52,7 @@
         <mxCell id="t_H4ScusPziJ7b-3OtiA-32" value="七层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_H4ScusPziJ7b-3OtiA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;负载均衡层次介绍&lt;/h1&gt;&lt;p&gt;对于网络分层模型，下一层会把上一层的数据打包，然后添加本层信息，到下一层后继续执行该逻辑。&lt;/p&gt;&lt;p&gt;发送数据放打包数据，接收数据放解包数据，打包数据时是低层把高层数据打包，解包数据就是相反的顺序由低到高。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;负载均衡层次介绍&lt;/h1&gt;&lt;p&gt;对于网络分层模型，下一层会把上一层的数据打包，然后添加本层信息，到下一层后继续执行该逻辑。&lt;/p&gt;&lt;p&gt;发送数据放打包数据，接收数据放解包数据，打包数据时是低层把高层数据打包，解包数据就是相反的顺序由低到高。&lt;/p&gt;&lt;p&gt;因此，在低层做负载均衡不需要解析更高层次的数据，因此性能更好。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="167.5" width="260" height="252.5" as="geometry" />
         </mxCell>
       </root>

@@ -4,14 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_H4ScusPziJ7b-3OtiA-5" target="t_H4ScusPziJ7b-3OtiA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;PORT 端口" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_H4ScusPziJ7b-3OtiA-4" target="t_H4ScusPziJ7b-3OtiA-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;IP地址" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="358" y="195" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t_H4ScusPziJ7b-3OtiA-3" target="t_H4ScusPziJ7b-3OtiA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t_H4ScusPziJ7b-3OtiA-3" value="MAC地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-7" value="链路层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="320" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-9" value="IP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="320" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_H4ScusPziJ7b-3OtiA-11" value="TCP层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

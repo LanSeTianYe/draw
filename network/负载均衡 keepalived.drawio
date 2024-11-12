@@ -16,11 +16,26 @@
         <mxCell id="4ISr7pQoZRIcrl6ndLBU-10" value="192.168.0.202" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
           <mxGeometry x="1390" y="950" width="90" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4ISr7pQoZRIcrl6ndLBU-11" value="192.168.0.201" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="540" width="90" height="140" as="geometry" />
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4ISr7pQoZRIcrl6ndLBU-11" target="4ISr7pQoZRIcrl6ndLBU-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ISr7pQoZRIcrl6ndLBU-12" value="192.168.0.201" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="540" width="90" height="140" as="geometry" />
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-11" value="192.168.0.100" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="620" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-12" value="192.168.0.101" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="620" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-13" value="Web Server1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-14" value="Web Server1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-15" value="Web Server1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-16" value="Sorry Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="900" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

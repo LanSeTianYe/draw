@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="570" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="4ISr7pQoZRIcrl6ndLBU-4" value="192.168.0.200" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#67AB9F;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
           <mxGeometry x="870" y="950" width="90" height="140" as="geometry" />
         </mxCell>
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="4ISr7pQoZRIcrl6ndLBU-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;备用节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ISr7pQoZRIcrl6ndLBU-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Keepalived&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -38,8 +38,8 @@
         <mxCell id="dECpqMmTMG83hJ59UqaY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="dECpqMmTMG83hJ59UqaY-1" target="dECpqMmTMG83hJ59UqaY-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="505" />
-              <mxPoint x="375" y="1275" />
+              <mxPoint x="370" y="505" />
+              <mxPoint x="370" y="1275" />
             </Array>
           </mxGeometry>
         </mxCell>

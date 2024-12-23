@@ -40,6 +40,18 @@
         <mxCell id="KY9enkxKX4iUOgCPwHwl-16" value="HTTP 业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="960" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-23" value="代码业务日志，记录关键信息，从请求获取或者自动生成TraceId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="640" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-24" value="消费者业务日志，从消息里面取或者自动生成TraceId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="680" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-25" value="每次执行脚本时生成一个TraceId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="720" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-27" value="调用链路日志，记录调用耗时等，从请求获取或者自动生成TraceId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="760" width="400" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

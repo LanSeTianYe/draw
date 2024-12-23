@@ -37,7 +37,7 @@
         <mxCell id="KY9enkxKX4iUOgCPwHwl-15" value="脚本日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KY9enkxKX4iUOgCPwHwl-16" value="HTTP 服务日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-16" value="HTTP 业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="sqwh9HDvDgY0L5kGwlWT">
-    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="2400" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="2400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="KY9enkxKX4iUOgCPwHwl-7" value="脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-9" value="错误码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-11" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-12" value="业务日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="680" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-13" value="调用链路日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="760" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-14" value="HTTP 服务日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KY9enkxKX4iUOgCPwHwl-15" value="HTTP 服务日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="720" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

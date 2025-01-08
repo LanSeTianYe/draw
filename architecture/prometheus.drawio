@@ -145,6 +145,12 @@
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-32" value="&lt;b&gt;Service I&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="810" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-47" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;远程存储&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="444" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-23" target="qOWHbGiOQ7azx5kOJRqT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

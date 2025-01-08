@@ -337,8 +337,20 @@
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-112" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
           <mxGeometry x="880" y="486.29" width="288.11" height="223.71" as="geometry" />
         </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-115" target="qOWHbGiOQ7azx5kOJRqT-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-115" target="qOWHbGiOQ7azx5kOJRqT-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-115" value="&lt;b&gt;blackbox_exporter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1311" y="1769" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-118" value="HTTP 探针" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="1970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-119" value="TCP&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;探针&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="1970" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

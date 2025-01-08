@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-112" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
-          <mxGeometry x="871.89" y="310" width="296.22" height="230" as="geometry" />
+          <mxGeometry x="880" y="486.29" width="288.11" height="223.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

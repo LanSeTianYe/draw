@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="CZtUmvLk-WmxuN-Ogijx">
-    <mxGraphModel dx="3695" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4800" pageHeight="4800" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4800" pageHeight="4800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,6 +351,45 @@
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-119" value="TCP&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;探针&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1391" y="1970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-129" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-123" target="qOWHbGiOQ7azx5kOJRqT-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-123" target="qOWHbGiOQ7azx5kOJRqT-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-123" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="600" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-124" target="qOWHbGiOQ7azx5kOJRqT-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-124" target="qOWHbGiOQ7azx5kOJRqT-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-124" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="600" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-125" value="&lt;b&gt;Service A&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-126" value="&lt;b&gt;Service B&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-127" value="&lt;b&gt;Service A&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-128" value="&lt;b&gt;Service B&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-134" target="qOWHbGiOQ7azx5kOJRqT-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-134" target="qOWHbGiOQ7azx5kOJRqT-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-134" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Nginx&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="350" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

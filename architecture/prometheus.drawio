@@ -11,7 +11,7 @@
           <mxGeometry x="2970" y="1050" width="790" height="180" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-240" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="3160" y="620" width="1150" height="193" as="geometry" />
+          <mxGeometry x="3200" y="620" width="1110" height="193" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="960" y="1970" width="260" height="330" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-241" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;高可用集群&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="683" width="110" height="60" as="geometry" />
+          <mxGeometry x="3230" y="683" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-243" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;高可用集群&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2990" y="1110" width="110" height="60" as="geometry" />

@@ -424,26 +424,6 @@
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-128" value="&lt;b&gt;Service D&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3690" y="1384.09" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-182" target="qOWHbGiOQ7azx5kOJRqT-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3440" y="954.09" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-193" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-135">
-          <mxGeometry x="0.1517" y="6" relative="1" as="geometry">
-            <mxPoint x="-1" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-182" target="qOWHbGiOQ7azx5kOJRqT-124">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3440" y="954.09" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-196" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-136">
-          <mxGeometry x="0.2488" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-163" target="qOWHbGiOQ7azx5kOJRqT-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -516,39 +496,19 @@
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-172" value="&lt;b&gt;Service H&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4466" y="1390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-182" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3360" y="874.09" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-184" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-183" target="qOWHbGiOQ7azx5kOJRqT-163">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-197" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-184">
-          <mxGeometry x="0.0834" y="1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3460" y="874.0900000000001" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-185" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-183" target="qOWHbGiOQ7azx5kOJRqT-168">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-198" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-185">
-          <mxGeometry x="0.2984" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-183" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="4146" y="880" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-182">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-192" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-187">
           <mxGeometry x="0.0584" y="-9" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-183">
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-124">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4210" y="870" as="targetPoint" />
+            <mxPoint x="4246" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-195" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-188">
@@ -569,26 +529,62 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-228" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-234" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-228">
+          <mxGeometry x="0.1015" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-229" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-186" target="qOWHbGiOQ7azx5kOJRqT-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-235" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-229">
+          <mxGeometry x="0.1538" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-186" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3430" y="590" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-189" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;存储&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="4400" y="360" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-214" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-182">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-214" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3460" y="874.0900000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-216" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-214">
           <mxGeometry x="-0.3829" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOWHbGiOQ7azx5kOJRqT-215" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-183">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-215" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4246" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-217" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-215">
           <mxGeometry x="-0.2051" y="1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-230" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-232" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-230">
+          <mxGeometry x="-0.0498" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-231" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOWHbGiOQ7azx5kOJRqT-213" target="qOWHbGiOQ7azx5kOJRqT-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOWHbGiOQ7azx5kOJRqT-233" value="联邦采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOWHbGiOQ7azx5kOJRqT-231">
+          <mxGeometry x="0.0702" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qOWHbGiOQ7azx5kOJRqT-213" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prometheus Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">

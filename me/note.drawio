@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="480" width="755" height="360" as="geometry" />
+          <mxGeometry x="1025" y="480" width="745" height="360" as="geometry" />
         </mxCell>
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;docker&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="495" width="580" height="40" as="geometry" />

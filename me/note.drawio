@@ -13,7 +13,7 @@
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-12" target="a4pm1cC5Z6HbGnXKBDq_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-31" value="/*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-26">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-31" value="/其它请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-26">
           <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

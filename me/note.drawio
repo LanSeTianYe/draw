@@ -13,7 +13,7 @@
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-12" target="a4pm1cC5Z6HbGnXKBDq_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-28" value="重新构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-21">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-28" value="重新编译" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-21">
           <mxGeometry x="0.127" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -32,7 +32,7 @@
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-12" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="590" width="80" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-22" value="重新构建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-14" target="a4pm1cC5Z6HbGnXKBDq_-15">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-22" value="重新编译" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-14" target="a4pm1cC5Z6HbGnXKBDq_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-14" value="rebuild" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-15" target="a4pm1cC5Z6HbGnXKBDq_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-29" value="构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-24">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-29" value="编译" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-24">
           <mxGeometry y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -55,11 +55,11 @@
         <mxCell id="a4pm1cC5Z6HbGnXKBDq_-18" value="4XX 5XX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="730" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-20" target="a4pm1cC5Z6HbGnXKBDq_-16">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4pm1cC5Z6HbGnXKBDq_-20" target="a4pm1cC5Z6HbGnXKBDq_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-30" value="编译" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-25">
-          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+        <mxCell id="a4pm1cC5Z6HbGnXKBDq_-33" value="&lt;span style=&quot;text-align: right;&quot;&gt;编译成静态文件&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4pm1cC5Z6HbGnXKBDq_-32">
+          <mxGeometry x="0.0085" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

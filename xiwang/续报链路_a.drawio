@@ -21,6 +21,9 @@
         <mxCell id="_DpiRx70NHCl_bEKjOj2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_DpiRx70NHCl_bEKjOj2-3" target="_DpiRx70NHCl_bEKjOj2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4vMe4p5toeT0H9vXOnmP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_DpiRx70NHCl_bEKjOj2-3" target="4vMe4p5toeT0H9vXOnmP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_DpiRx70NHCl_bEKjOj2-3" value="短链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="400" y="298" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,7 +71,7 @@
           <mxGeometry x="400" y="160" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_DpiRx70NHCl_bEKjOj2-34" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;用户选课&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="600" y="160" width="210" height="20" as="geometry" />
+          <mxGeometry x="580" y="160" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_DpiRx70NHCl_bEKjOj2-35" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1070" y="172" width="120" height="19" as="geometry" />

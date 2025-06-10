@@ -52,8 +52,8 @@
         <mxCell id="g5C_LvDEkNhxmviA9g2l-18" value="偶尔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="861" y="1360" width="119" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5C_LvDEkNhxmviA9g2l-25" value="&lt;div&gt;老师角度：&lt;/div&gt;1、&amp;nbsp; &amp;nbsp;老师每次点名、 学生每次不逃课。&lt;div&gt;2、老师每次不点名、学生每次不逃课。&lt;/div&gt;&lt;div&gt;3、老师每次不点名、学生每次逃课。&lt;/div&gt;&lt;div&gt;4、&amp;nbsp; &amp;nbsp; 老师偶尔点名、学生偶尔逃课。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共有 3*3 九种情况。&lt;/div&gt;&lt;div&gt;1、&amp;nbsp; &amp;nbsp;老师每次点名、 学生每次不逃课。&lt;div&gt;2、老师每次不点名、学生每次不逃课。&lt;/div&gt;&lt;div&gt;3、老师每次不点名、学生每次逃课。&lt;/div&gt;&lt;div&gt;4、&amp;nbsp; &amp;nbsp; 老师偶尔点名、学生偶尔逃课。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1280" width="300" height="270" as="geometry" />
+        <mxCell id="g5C_LvDEkNhxmviA9g2l-25" value="&lt;div&gt;老师角度：&lt;/div&gt;1、&amp;nbsp; &amp;nbsp;老师每次点名、 学生每次不逃课。&lt;div&gt;2、老师每次不点名、学生每次不逃课。&lt;/div&gt;&lt;div&gt;3、老师每次不点名、学生每次逃课。&lt;/div&gt;&lt;div&gt;4、&amp;nbsp; &amp;nbsp; 老师偶尔点名、学生偶尔逃课。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1220" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="g5C_LvDEkNhxmviA9g2l-26" value="不" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="861" y="1420" width="120" height="60" as="geometry" />
@@ -130,7 +130,7 @@
             <mxPoint x="1630" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5C_LvDEkNhxmviA9g2l-55" value="逃课&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5C_LvDEkNhxmviA9g2l-55" value="9&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g5C_LvDEkNhxmviA9g2l-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5C_LvDEkNhxmviA9g2l-55" target="g5C_LvDEkNhxmviA9g2l-55">

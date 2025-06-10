@@ -43,7 +43,7 @@
         <mxCell id="g5C_LvDEkNhxmviA9g2l-9" value="D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g5C_LvDEkNhxmviA9g2l-15" value="&lt;p&gt;已知：&lt;/p&gt;&lt;p&gt;A 知道 B1、C1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;B 知道 A1、C1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;C 知道 A1、B1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;A、B、C、D 都知道至少有一个是坏人。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;B 知道B1是坏人。&lt;/p&gt;&lt;p&gt;C 知道C1是坏人。&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5C_LvDEkNhxmviA9g2l-15" value="&lt;p&gt;已知：&lt;/p&gt;&lt;p&gt;A 知道 B1、C1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;B 知道 A1、C1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;C 知道 A1、B1、D1 是好的还是坏的。&lt;/p&gt;&lt;p&gt;A、B、C、D 都知道至少有一个是坏的。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;B 知道B1是坏人。&lt;/p&gt;&lt;p&gt;C 知道C1是坏人。&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="480" width="360" height="360" as="geometry" />
         </mxCell>
       </root>

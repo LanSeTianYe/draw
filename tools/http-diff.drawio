@@ -26,7 +26,7 @@
         <mxCell id="X8sbBprj1SlT98JKXLwf-1" value="payload.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X8sbBprj1SlT98JKXLwf-7" value="请求&amp;amp;对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X8sbBprj1SlT98JKXLwf-7" value="请求对比器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="253.99999999999997" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X8sbBprj1SlT98JKXLwf-8" value="task_1_output.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
         <mxCell id="X8sbBprj1SlT98JKXLwf-9" value="task_1_failed_payload.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X8sbBprj1SlT98JKXLwf-13" value="请求&amp;amp;对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X8sbBprj1SlT98JKXLwf-13" value="请求对比器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="386" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X8sbBprj1SlT98JKXLwf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X8sbBprj1SlT98JKXLwf-14" target="X8sbBprj1SlT98JKXLwf-1">

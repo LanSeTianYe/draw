@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-6" value="是否有在读课？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="475" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-7" value="在读课接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-8" value="用户选择地区、年级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

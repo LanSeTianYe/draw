@@ -1,53 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="l59Q0kZf70GFu10ryJVb">
-    <mxGraphModel dx="1247" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4800" pageHeight="4800" math="0" shadow="0">
+    <mxGraphModel dx="1725" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4800" pageHeight="4800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-4" target="VSyL5UJNjRtYyE7pGAWY-6">
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-6" target="VSyL5UJNjRtYyE7pGAWY-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-4" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="630" y="510" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-6" target="VSyL5UJNjRtYyE7pGAWY-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-13">
-          <mxGeometry x="0.0833" relative="1" as="geometry">
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-94" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-93">
+          <mxGeometry x="0.0147" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-6" target="VSyL5UJNjRtYyE7pGAWY-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-6" value="是否有小学在读课？" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="640" y="445" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-18">
-          <mxGeometry x="-0.0118" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-6" value="是否有在读课？" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="810" y="475" width="180" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-8" value="用户选择地区、年级" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-10" target="VSyL5UJNjRtYyE7pGAWY-20">
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-10" target="VSyL5UJNjRtYyE7pGAWY-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-10" value="课程推荐接口" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-8" target="VSyL5UJNjRtYyE7pGAWY-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-17" value="年级、地区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-16">
-          <mxGeometry x="-0.5801" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VSyL5UJNjRtYyE7pGAWY-20" value="扩课页面" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="840" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-20" value="小学扩课页面" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-25" target="VSyL5UJNjRtYyE7pGAWY-61">
           <mxGeometry relative="1" as="geometry" />
@@ -147,6 +122,38 @@
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-81" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="2260" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-84" target="VSyL5UJNjRtYyE7pGAWY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-84" value="小学扩课推荐页链接" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-85" target="VSyL5UJNjRtYyE7pGAWY-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-85" value="初中扩课推荐链接" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="410" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-86" target="VSyL5UJNjRtYyE7pGAWY-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-92" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-91">
+          <mxGeometry x="-0.0181" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-86" value="是否有初中在读课？" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-89" target="VSyL5UJNjRtYyE7pGAWY-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-89" value="课程推荐接口" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="940" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-90" value="初中扩课页面" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

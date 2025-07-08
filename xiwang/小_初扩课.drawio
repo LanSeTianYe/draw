@@ -116,14 +116,48 @@
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-107" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#9673a6;fillColor=#e1d5e7;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="580" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-113" target="VSyL5UJNjRtYyE7pGAWY-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-113" value="小学" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="1960" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-114" target="VSyL5UJNjRtYyE7pGAWY-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-114" value="初中" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="600" width="120" height="30" as="geometry" />
+          <mxGeometry x="1960" y="645" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-121" value="空数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-124" target="VSyL5UJNjRtYyE7pGAWY-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-133" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-132">
+          <mxGeometry x="-0.0026" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-124" value="是否选择年级？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2211" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-125" target="VSyL5UJNjRtYyE7pGAWY-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-136" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="VSyL5UJNjRtYyE7pGAWY-135">
+          <mxGeometry x="0.0499" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-125" value="是否选择年级？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2211" y="645" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-131" value="是否有小学在读年级？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VSyL5UJNjRtYyE7pGAWY-134" value="是否有初中在读年级？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="645" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

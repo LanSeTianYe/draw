@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-85" value="初中扩课推荐链接" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="410" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-86" target="VSyL5UJNjRtYyE7pGAWY-89">
           <mxGeometry relative="1" as="geometry" />
@@ -144,16 +144,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-86" value="是否有初中在读课？" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="180" height="110" as="geometry" />
+          <mxGeometry x="630" y="680" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="VSyL5UJNjRtYyE7pGAWY-89" target="VSyL5UJNjRtYyE7pGAWY-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-89" value="课程推荐接口" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="940" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSyL5UJNjRtYyE7pGAWY-90" value="初中扩课页面" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="705" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

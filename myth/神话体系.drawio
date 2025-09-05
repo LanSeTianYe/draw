@@ -1,11 +1,94 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="QYHx7UKELsz18SmxppVX">
-    <mxGraphModel dx="1596" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3141" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1720" width="390" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1040" width="400" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="gqerqZQj8DdnmrPiy-Ua-1" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;&lt;span class=&quot;mw-page-title-main&quot;&gt;菩提祖师&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-2" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;&lt;span class=&quot;mw-page-title-main&quot;&gt;镇远大仙&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-4" value="地仙之祖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-5" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVyzCRQ1AT9bxZAvj8M8-6" target="OVyzCRQ1AT9bxZAvj8M8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-19" value="化形" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OVyzCRQ1AT9bxZAvj8M8-17">
+          <mxGeometry x="-0.1093" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-6" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;道德天尊&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-7" value="太清之主" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-8" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;元始天尊&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-9" value="玉清之主" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-12" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;灵宝天尊&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-13" value="上清之主" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-15" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;太上老君&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-16" value="道教" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-22" value="三清（道教）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-23" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;如来&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-24" value="释迦摩尼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-25" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;弥勒佛&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-26" value="释迦摩尼的继任者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-29" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;观世音菩萨&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-30" value="四大菩萨之一" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-31" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;地藏王菩萨&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-32" value="四大菩萨之一" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-34" value="佛教" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-35" value="&lt;h1 style=&quot;color: rgb(16, 20, 24); font-weight: normal; margin: 0px; padding: 0px; display: flow-root; word-break: break-word; border: 0px; font-size: 1.8em; font-family: &amp;quot;Linux Libertine&amp;quot;, Georgia, Times, &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.375; overflow-wrap: break-word; flex-grow: 1; text-align: start; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot; lang=&quot;zh-Hans-CN&quot; class=&quot;firstHeading mw-first-heading&quot; id=&quot;firstHeading&quot;&gt;玉皇大帝&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVyzCRQ1AT9bxZAvj8M8-36" value="道教" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
